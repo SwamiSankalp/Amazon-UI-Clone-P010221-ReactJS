@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # DEMO APP
 
-clone-9ee90.web.app
+https://clone-9ee90.web.app
